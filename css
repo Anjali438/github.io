@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 4, 2020, 11:43:11 AM
+    Author     : lenovo
+*/
+/*
+external css file
+*/
+body{
+    max-width: 1000px;
+    margin: auto;
+    font-family: algerian;
+    font-size: 16px;
+ 
+}
+h1{
+    font-family: bold;
+}
+h4{
+    font:italic small-caps bolder 28px arial, sans-serif;
+}
+div{
+    border:1px solid black;
+    margin-top:5px;
+    padding:20px;
+}
+/*
+.left{
+    float:left;
+    padding:0px;
+    border: none
